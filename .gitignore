@@ -1,0 +1,12 @@
+# os
+.DS_Store
+
+# dependencies
+node_modules
+
+# build
+dist
+.parcel-cache
+
+# log
+*.log
